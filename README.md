@@ -251,7 +251,7 @@ MIT License - See LICENSE file for details
 
 ## 🔗 Related Projects
 
-- [HOLO-Studio](https://github.com/anttiluode/HOLO-studio): Audio codec using holographic compression
+- [HOLO-Audio](https://github.com/anttiluode/HOLO-Audio): Audio codec using holographic compression
 - [PerceptionLab](https://github.com/anttiluode/perception-lab): Visual programming for signal processing
 - [MiniWoW](https://github.com/anttiluode/miniwow): φ-world physics simulation
 - Little people inside best.py 
