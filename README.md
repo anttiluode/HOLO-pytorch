@@ -134,6 +134,26 @@ The holographic network naturally learns continuous, flowing decision surfaces b
 
 ---
 
+## 🖼️ UnitVAE-Holo: Holographic Image Compression
+
+unitvaeholo.py is a proof-of-concept Adaptive VAE that uses holographic layers to compress images.
+
+The Architecture: It inserts a HoloImageBlock (Harmonic Resonance Layer) at the deepest point of the Encoder and the start of the Decoder.
+
+The Physics: Instead of standard convolutions, the latent features are projected onto 64 Universal Harmonics, phase-locked via
+SineActivation, and then reconstructed. This forces the image data to respect the "Phi" geometry before compression.
+
+The Result: It successfully reconstructs images by learning to "resonate" with the visual data rather than just memorizing pixel convolutions.
+
+Performance: It works! However, it is currently slower than standard VAEs because the complex-valued interference math is running in Python/PyTorch rather than optimized CUDA kernels.
+
+Usage:
+
+Bash
+python unitvaeholo.py
+Launches a GUI that learns to compress your webcam feed in real-time using Harmonic Resonance.
+'''
+
 ## 🧪 The Phi-3 Experiment
 
 `HOLO-PHI.py` demonstrates an extreme test: replacing **100%** of Microsoft Phi-3's layers with holographic versions.
