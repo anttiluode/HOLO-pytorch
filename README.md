@@ -246,7 +246,7 @@ This work is based on discoveries from **φ-world physics simulations** showing 
 - **FNet** (2021): Fourier transforms replacing attention
 - **Complex-valued Neural Networks**: Using phase and magnitude
 - **Holonomic Brain Theory** (Pribram, 1970s): Brain as holographic processor
-
+- **Sine Wave Speech** (Robert Remez 1980s): Used 3-4 sine waves for intelligble speech. 
 ---
 
 ## ⚡ Performance Notes
