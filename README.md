@@ -149,10 +149,12 @@ Performance: It works! However, it is currently slower than standard VAEs becaus
 
 Usage:
 
-Bash
+```bash
 python unitvaeholo.py
+```
+
 Launches a GUI that learns to compress your webcam feed in real-time using Harmonic Resonance.
-'''
+It takes a bit for the image to show up. But it will. 
 
 ## 🧪 The Phi-3 Experiment
 
